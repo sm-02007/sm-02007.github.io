@@ -79,7 +79,7 @@ body{
     color: #111;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 1080px) {
     .greetings {
         display: block;
         font-size: 3.4rem;
