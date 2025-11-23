@@ -16,7 +16,7 @@ body {
 }
 
 .greetings {
-  font-size: 10rem;
+  font-size: 8rem;
   font-weight: 900;
   text-align: center;
 }
@@ -52,7 +52,7 @@ body {
   background-color: yellow;
   border: none;
   padding: 10px 20px;
-  font-size: 18px;
+  font-size: 3rem;
   cursor: pointer;
   position: relative;
   border-radius: 20px;
